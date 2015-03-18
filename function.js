@@ -5,3 +5,4 @@ function say(msg) {
 }
 
 say("Hello World");
+say("No, hello to you!");
